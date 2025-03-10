@@ -1,4 +1,4 @@
-### **Fine-Tuning Large Language Models for Binary Text Classification**  
+### **Detecting Prompt Injections with Fine-Tuned Transformer LLMs - Binary Text Classification**  
 
 This repository contains the source code and model files for the project:  
 **"Fine-Tuning Large Language Models for Enhancing Binary Text Classification"**.  
